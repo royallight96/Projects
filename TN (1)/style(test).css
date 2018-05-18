@@ -1,0 +1,20 @@
+#bgfooter{
+	background: #414042;
+}
+#iconconnect{
+	width: 30px;
+	height: 30px;
+	margin-bottom: 10px;
+}
+#contentfooter hr{
+	background: white;
+	height: 2px;
+}
+#end {
+	color:white;
+
+}
+#end a{
+	color: white;
+	margin: auto 20px;
+}
