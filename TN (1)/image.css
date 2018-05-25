@@ -2,10 +2,12 @@ body{
 	float: center;
 }
 #containerimg{
+
 	width: 60%;
 }
 #myCarousel{
 	width: 900px;
+background: navy;
 }
 .carousel-inner>.item>img{
 		width:600px;
