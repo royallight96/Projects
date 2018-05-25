@@ -1,0 +1,226 @@
+@charset "utf-8";
+/* CSS Document */
+#loGo{
+	background:#333;	
+}
+
+.navbar{
+	min-height:0;
+}
+.navbar-nav>li>a {
+    padding-top:0px;
+    padding-bottom:0px;
+}
+.navbar-nav>li>a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 20px;
+}
+
+.menu1{
+	background:#666;
+	border:1px solid #666;
+	margin-left:2px;
+	margin-bottom:0;
+
+}
+a{
+	color:#FFF;
+	
+}
+a:hover{
+	color:#000;
+	border-radius:10px;
+	
+}
+#ico{
+	height:30px;
+}
+.menu2{
+	color:#FFF;
+	background:#FFF;
+	width:15px;
+	height:15px;
+	float:left;
+	margin-left:5px;
+	border-radius:10px;
+	margin-bottom:0px;
+}
+#cler{
+	clear:both;
+}
+.logo{
+	margin-left:200px;
+	float:left;
+}
+.menu3{
+	background:#666;
+	border:1px solid #666;
+	margin-left:2px;
+}
+#nav1{
+	
+	margin-bottom:0;
+	margin-top:20px;
+}
+.dropbtn {
+    background-color: #666;
+    color: #fff;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+}
+
+.v2 {
+    position: relative;
+    display: inline-block;
+	
+}
+
+.v1 {
+    display: none;
+    position: absolute;
+    background-color: #333;
+    width:350px;
+    z-index: 1;
+}
+
+.v1 a {
+    color: #fff;
+    padding:16px;
+    text-decoration: none;
+    display: block;
+}
+
+.v1 a:hover {background-color: #CCC;
+
+}
+
+.v2:hover .v1 {
+    display: block;
+	
+}
+.v2:hover .dropbtn {
+    background-color: #333;
+	color:#fff;
+	
+}
+a:hover{
+	color:#000;
+}
+.v3{
+	width:400px;
+}
+.v4{
+	width:300px;
+}
+.v5{
+	width:400px;
+}
+#anh1,#text1{
+	opacity:0;	
+}
+#anh1{
+	 background:#666;
+	 width:220px;
+	 height:170px;
+	 position:absolute;
+
+}
+#anh1:hover{
+	opacity:0.5;
+	 background:#666;
+	 width:400px;
+	 height:170px;
+	 position:absolute;
+}
+
+#txtgroup{
+	margin-left:2px;
+	height:42px;
+	border-radius:0;
+	}
+#node{
+	margin-left:2px;
+	height:42px; 
+	border-radius:0;
+}
+#ngaythi{
+	padding-left:0;
+	background:#CCC;
+}
+#choose{
+	color:#FFF; 
+	position:absolute;
+	margin-left:25px;
+	margin-top:20px;
+	font-size:16px;"
+}
+#lichthi{
+	margin-left:75px;
+	margin-top:5px;
+}
+#div1{
+	width:220px;
+	height:250px;
+	background-color:#E0EEE0;
+	float:left;
+	margin-top:5px;
+	display:none;
+}
+#sukien{
+	color:#FFF;
+	 position:absolute;
+	 margin-left:25px;
+	 margin-top:20px;
+	 font-size:16px;
+}
+#hoso{
+	text-align:center;
+	font-size:16px;
+	color:#30F;
+}
+#div2{
+	width:220px;
+	height:250px;
+	background-color:#C1CDC1;
+	float:left;
+	margin-left:5px;
+	display:none;
+}
+#khonggian{
+	 color:#FFF; 
+	 position:absolute;
+	 margin-left:25px;
+	 margin-top:20px;
+	 font-size:16px;
+}
+#sangtao{
+	text-align:center;
+	font-size:16px;
+	color:#30F;
+}
+#chungtoi{
+	font-size:16px;
+	margin-top:20px
+}
+#kynang{
+	font-size:16px;
+	margin-top:20px;
+}
+#duan{
+	 font-size:16px;
+	 margin-top:20px;
+}
+#giaoduc{
+	 font-size:20px;color:#0CC;
+}
+#ketnoi{
+	font-size:16px;margin-top:20px;
+}
+#hotro{
+	font-size:16px;margin-top:20px;
+}
+#vieclam{
+	 font-size:16px;margin-top:10px;
+}
