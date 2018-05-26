@@ -5,8 +5,9 @@ body{
 
 	width: 60%;
 }
+@media screen and (max-width: 900px){
 #myCarousel{
-	width: 900px;
+	
 background: navy;
 }
 .carousel-inner>.item>img{
@@ -31,4 +32,5 @@ background: navy;
 }
 #imgpn{
 	width: 60px;height: 80px;position: absolute;top:150px;
+}
 }
